@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    " S "
+  ],
+  "key": {
+    "P": { "item": "minecraft:paper" },
+    "S": { "item": "minecraft:string" }
+  },
+  "result": {
+    "item": "verdantepoch:titan_quest_book",
+    "count": 1
+  }
+}
